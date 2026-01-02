@@ -1,40 +1,32 @@
-# 💻 Projeto de Treino: Landing Page "Wide Coverage"
+# 🐾 Projeto de Treino: Landing Page "WE CARE"
 
-Este é um projeto desenvolvido puramente para fins de estudo e prática de fundamentos de **HTML5** e **CSS3**. O objetivo foi replicar um layout moderno, focando em alinhamento de elementos, tipografia e boas práticas de estruturação.
+Este projeto é um exercício de front-end focado na criação de uma interface para serviços veterinários ou pet shops. O objetivo principal foi praticar a organização de elementos de navegação e a criação de uma seção Hero com forte apelo visual.
 
 ## 🎯 Objetivos do Treino
-- Praticar o uso de **Flexbox** para criar layouts bidimensionais (imagem ao lado de texto).
-- Aplicar conceitos de **Box Model** (padding, margin, border).
-- Estilização de navegação (navbar) e botões com estados de hover.
-- Organização de hierarquia visual com títulos e parágrafos.
+- **Navegação:** Criar um menu horizontal limpo com um botão de destaque (Log In).
+- **Trabalho com Cores:** Implementar uma paleta vibrante utilizando contraste para guiar o olhar do usuário (botão "Explore").
+- **Tipografia:** Praticar o uso de diferentes pesos (bold para "WE CARE") e tamanhos para criar hierarquia de informação.
+- **Layout:** Alinhamento de ilustrações complexas ao lado de blocos de texto.
 
 ## 🛠️ Tecnologias Utilizadas
-- **HTML5**: Estrutura semântica.
-- **CSS3**: Estilização, fontes customizadas e layout responsivo.
+- **HTML5:** Estrutura semântica (nav, main, section).
+- **CSS3:** Estilização de botões com `border-radius`, alinhamento com `Flexbox` e espaçamentos.
 
 ## 📸 Mockup da Página
-Abaixo, a visualização da interface que serviu de base para este treino:
+Abaixo, a visualização do resultado final do treino:
 
 <div align="center">
-  <img src="./Captura de tela 2025-11-25 114425.png" width="800px" alt="Screenshot da Landing Page">
+  <img src="./Captura de tela 2026-01-02 105428.png" width="800px" alt="Landing Page de Cuidados Pet">
 </div>
 
-## 💡 O que eu aprendi/pratiquei:
-1. **Posicionamento**: Como centralizar uma seção verticalmente na tela.
-2. **Tipografia**: Importação de fontes externas para dar um ar mais profissional ao site.
-3. **Limpeza de código**: Manter o CSS organizado para facilitar futuras alterações.
+## 💡 Desafios Superados
+1. **Botões Estilizados:** Criação de botões com cantos arredondados (pills) e cores sólidas sem bordas pesadas.
+2. **Espaçamento:** Ajustar o `line-height` do texto para que o parágrafo "Lorem Ipsum" ficasse legível e bem distribuído.
+3. **Equilíbrio Visual:** Centralizar o conteúdo textual em relação à altura da imagem da veterinária.
 
-## 🎨 Design
-
-O design segue uma estética minimalista com as seguintes características:
-* **Cores Primárias:** Verde suave (#D4F9D4 para o fundo) e Azul Marinho para o texto principal.
-* **Ilustrações:** Uso de artes vetoriais que humanizam a marca.
-* **Espaçamento:** Foco em "respiro" entre os elementos para uma navegação menos cansativa.
-
-## 🚀 Como visualizar
-Como este é um projeto estático (front-end), basta baixar os arquivos e abrir o `index.html` em qualquer navegador:
-1. Clone o repositório ou baixe o ZIP.
-2. Clique duas vezes no arquivo `index.html`.
+## 🚀 Como executar
+1. Salve o código em sua máquina.
+2. Abra o arquivo `index.html` em seu navegador preferido.
 
 ---
-*Este projeto foi feito para reforçar a base de desenvolvimento Web. Críticas e sugestões são sempre bem-vindas!*
+*Projeto desenvolvido para fins de estudo de Design e Desenvolvimento Front-end.*
