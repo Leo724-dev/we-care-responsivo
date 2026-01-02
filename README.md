@@ -15,9 +15,7 @@ Este projeto é um exercício de front-end focado na criação de uma interface 
 ## 📸 Mockup da Página
 Abaixo, a visualização do resultado final do treino:
 
-<div align="center">
-  <img src="./Captura de tela 2026-01-02 105428.png" width="800px" alt="Landing Page de Cuidados Pet">
-</div>
+  <img src="img/Captura de tela 2026-01-02 105428.png" width="800px" alt="Landing Page de Cuidados Pet">
 
 ## 💡 Desafios Superados
 1. **Botões Estilizados:** Criação de botões com cantos arredondados (pills) e cores sólidas sem bordas pesadas.
